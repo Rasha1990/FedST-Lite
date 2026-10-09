@@ -25,8 +25,6 @@ If you find this work or the provided code useful for your research, please cite
 @article{alhuthaifi2026fedstlite,
   title={FedST-Lite: Ultra-Lightweight, Provable, and Secure Dynamic Federated Spatiotemporal Graph Networks for Context-Aware Traffic Forecasting},
   author={Al-Huthaifi, Rasha and Yang, Hailiang and Wang, Hengzhi and Cui, Laizhong and Al-Huda, Zaid},
-  journal={Expert Systems with Applications},
-  year={2026},
-  note={Submitted for publication},
-  publisher={Elsevier}
+  journal={Submitted for publication},
+  year={2026}
 }
